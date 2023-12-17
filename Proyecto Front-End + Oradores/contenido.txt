@@ -1,0 +1,1 @@
+En esta carpeta se encuentra mi trabajo front end con el agregado de codigo javascript para el manejo del archivo xml creado en el apartado Bak con Java.
