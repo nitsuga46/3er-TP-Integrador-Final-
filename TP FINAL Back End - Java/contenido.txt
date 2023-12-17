@@ -1,1 +1,1 @@
-
+En esta carpeta se encuentra mi trabajo de Java en NetBeans con su respectiva referencia a una coneccion con Base de datos ademas de la creacion del archivo xml que luego usare en el apartado de front para mostrar los registros en la web.
