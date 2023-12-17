@@ -1,0 +1,111 @@
+/*------------------------------estilos del navegador------------------------------*/
+.navbar.navbar.navbar-expand-lg.bg-body-tertiary {
+  padding: 0;
+}
+
+.navbar-collapse {
+  justify-content: right;
+}
+
+.container-fluid {
+  background-color: rgb(56, 54, 54);
+}
+
+.container-fluid img {
+  max-width: 150px;
+  max-height: 150px;
+}
+
+.container-fluid a {
+  color: white;
+}
+
+/*------------------------------estilos carrucel------------------------------*/
+.carousel-item img {
+  height: auto;
+}
+/*------------------------------estilos tarjetas------------------------------*/
+.cards {
+  margin: 5%;
+}
+.cards h2,
+p {
+  text-align: center;
+}
+.card {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.card img {
+  max-height: auto;
+  max-width: auto;
+}
+/*------------------------------estilos section honolulu------------------------------*/
+.hono {
+  background-color: rgb(63, 61, 61);
+}
+.hono {
+  color: white;
+}
+
+/*------------------------------estilos section Formulario------------------------------*/
+
+.marsecform {
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+.marsecform p,
+h2 {
+  text-align: center;
+  margin-bottom: 0;
+}
+.col.marform {
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+.form-floating label {
+  margin-left: 1%;
+}
+.form-floating p {
+  text-align: left;
+}
+.col-12 button {
+  margin-top: 2%;
+  width: 100%;
+}
+
+/*------------------------------estilos section Footer------------------------------*/
+
+.container-fluid {
+  background-color: rgb(52, 14, 88);
+  padding: 1.5%;
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+footer a {
+  color: white;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+footer h6 {
+  text-align: right;
+}
+
+/*------------------------------estilos main------------------------------*/
+main {
+  padding: 2%;
+}
+
+#pagototaltickets {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: black;
+}
+
+div.botones {
+  text-align: center;
+  margin-right: 2px;
+}
