@@ -1,1 +1,2 @@
 En esta carpeta se encuentra el video que muestra todo el proyecto integrado y el funcionamiento de cada una de sus partes; desde la parte de Back con la conexion a la base de datos para el CRUD requerido sobre la tabla Oradores mas la creacion del archivo xml con todos los registros cargados sobre la dicha base para luego ser visualizados mediante codigo Javascript en mi proyect de Front.
+LINK DEL VIDEO: https://youtu.be/-ZSkYdx309w
